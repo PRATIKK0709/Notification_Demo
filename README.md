@@ -118,5 +118,5 @@ For further exploration, consider implementing more advanced features like actio
 
 ## Post
 
+![guideonseries](https://github.com/user-attachments/assets/e95fd72b-57a4-445a-bbb4-94ed1b6fdf83)
 
-[guideonseries](https://github.com/user-attachments/assets/5a2deefb-e4a2-4fd4-ae04-9e62fc450ece)
