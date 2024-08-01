@@ -1,4 +1,5 @@
-# Guide to Implementing Local Notifications in SwiftUI
+# Notification_Demo
+## Guide to Implementing Local Notifications in SwiftUI
 
 This guide provides an overview of implementing local notifications in a SwiftUI application, focusing on setting up notification permissions, scheduling notifications, and handling notification interactions.
 
